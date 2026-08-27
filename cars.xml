@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<models>
+    <car>
+        <name>Škoda Oktávia</name>
+        <price>500000</price>
+        <dph>20</dph>
+    </car>
+
+    <car>
+        <name>Škoda Felicia</name>
+        <price>210000</price>
+        <dph>19</dph>
+    </car>
+
+    <car>
+        <name>Škoda Fabia</name>
+        <price>350000</price>
+        <dph>20</dph>
+    </car>
+
+    <car>
+        <name>Škoda Forman</name>
+        <price>100000</price>
+        <dph>19</dph>
+    </car>
+
+    <car>
+        <name>Škoda Favorit</name>
+        <price>80000</price>
+        <dph>19</dph>
+    </car>
+</models>
+
+<sales>
+    <sale>
+        <model_name>Škoda Oktávia</model_name>
+        <date>2010-12-02</date>
+    </sale>
+
+    <sale>
+        <model_name>Škoda Felicia</model_name>
+        <date>2000-12-03</date>
+    </sale>
+
+    <sale>
+        <model_name>Škoda Fabia</model_name>
+        <date>2010-12-04</date>
+    </sale>
+
+    <sale>
+        <model_name>Škoda Oktávia</model_name>
+        <date>2010-12-04</date>
+    </sale>
+
+    <sale>
+        <model_name>Škoda Oktávia</model_name>
+        <date>2010-12-05</date>
+    </sale>
+
+    <sale>
+        <model_name>Škoda Fabia</model_name>
+        <date>2010-12-05</date>
+    </sale>
+
+    <sale>
+        <model_name>Škoda Fabia</model_name>
+        <date>2010-12-06</date>
+    </sale>
+
+    <sale>
+        <model_name>Škoda Forman</model_name>
+        <date>2000-12-04</date>
+    </sale>
+
+    <sale>
+        <model_name>Škoda Favorit</model_name>
+        <date>2000-12-05</date>
+    </sale>
+
+    <sale>
+        <model_name>Škoda Forman</model_name>
+        <date>2000-12-06</date>
+    </sale>
+
+    <sale>
+        <model_name>Škoda Felicia</model_name>
+        <date>2000-12-03</date>
+    </sale>
+
+    <sale>
+        <model_name>Škoda Felicia</model_name>
+        <date>2000-12-02</date>
+    </sale>
+
+    <sale>
+        <model_name>Škoda Oktávia</model_name>
+        <date>2010-12-07</date>
+    </sale>
+</sales>

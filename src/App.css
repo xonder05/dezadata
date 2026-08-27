@@ -1,0 +1,36 @@
+#page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h2 {
+  margin-bottom: 0px;
+}
+
+table {
+  display: block;
+  border: black 1px solid;
+  border-collapse: collapse;
+  margin: 20px;
+}
+
+tr {
+  border: black 1px solid;
+}
+
+th {
+  border: black 1px solid;
+  padding: 2.5px 5px 2.5px 5px;
+  background-color: lightgray;
+  text-align: left;
+}
+
+td {
+  border: black 1px solid;
+  padding: 2.5px 5px 2.5px 5px;
+}
+
+button {
+  margin: 20px;
+}
