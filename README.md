@@ -1,5 +1,5 @@
 ### Technologie
-Projekt je implementován v doporučeném Reactu. Spouští se tedy příkazem `npm start` v kořenovém adresáři.
+Projekt je implementován v doporučeném Reactu. Spouští se tedy příkazem `npm start` v kořenovém adresáři (před prvním spuštěním je potřeba instalovat závislosti pomocí `npm install`).
 
 ### Zrojové soubory
 Implementace je v `App.js` a `App.css`. Navržená struktura XML je `cars.xml`.
